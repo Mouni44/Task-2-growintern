@@ -1,8 +1,8 @@
 # Task-2-growintern
 
-# # # Redesign an Existing brand : 
+## Redesign an Existing brand : 
 
-        ---- ABOUT THE PROJECT : ----
+### ABOUT THE PROJECT : 
 
             Redesigning an existing brand while retaining its core message is a delicate process, as it requires maintaining 
         the essence of the brand while giving it a fresh and updated look. For this exercise, let's consider redesigning the 
